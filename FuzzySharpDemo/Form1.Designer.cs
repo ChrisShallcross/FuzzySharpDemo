@@ -95,7 +95,7 @@
             this.MinimumSize = new System.Drawing.Size(561, 505);
             this.Name = "Form1";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
-            this.Text = "Fizzy Sharp Demo";
+            this.Text = "Fuzzy Sharp Demo";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
